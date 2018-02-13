@@ -39,7 +39,7 @@ simple-obfs 0.0.5
 ```
 
 ```
-shadowsocks-libev 3.1.2
+shadowsocks-libev 3.1.3
 
   maintained by Max Lv <max.c.lv@gmail.com> and Linus Yang <laokongzi@gmail.com>
 
@@ -125,7 +125,7 @@ simple-obfs 0.0.5
 ```
 
 ```
-shadowsocks-libev 3.1.2
+shadowsocks-libev 3.1.3
 
   maintained by Max Lv <max.c.lv@gmail.com> and Linus Yang <laokongzi@gmail.com>
 
